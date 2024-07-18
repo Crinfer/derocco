@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serviços - De Rocco Materiais De Construção LTDA.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="img/logo.png" alt="Logo De Rocco">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Serviços</a></li>
+                <li><a href="contact.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Nossos Serviços</h1>
+        <p>Detalhes sobre os serviços oferecidos...</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 De Rocco Materiais De Construção LTDA.</p>
+    </footer>
+</body>
+</html>
